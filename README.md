@@ -238,3 +238,6 @@ This repository serves as the official landing page for Family Farm. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Family Farm today!**
+
+---
+**Last updated:** 2026-09-11 10:40:20 UTC
